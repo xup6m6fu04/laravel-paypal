@@ -112,12 +112,12 @@
                 <div class="alert alert-success" role="alert" style="display: none">
                     退款成功<br>
                     <a href="https://dev.inredis.com/logs" target="_blank">查看 PayPal 回傳退款結果</a><br>
-                    <a href="https://www.sandbox.paypal.com/myaccount/home" target="_blank">查看 PayPal 帳戶交易明細 (sb-ec1mf213505@business.example.com, PR?^kN>E)</a>
+                    <a href="https://www.sandbox.paypal.com/myaccount/home" target="_blank">查看 PayPal 帳戶交易明細</a>
                 </div>
                 <div class="alert alert-warning" role="alert" style="display: none">
                     退款失敗<br>
                     <a href="https://dev.inredis.com/logs" target="_blank">查看 PayPal 回傳退款結果</a><br>
-                    <a href="https://www.sandbox.paypal.com/myaccount/home" target="_blank">查看 PayPal 帳戶交易明細</a> (sb-ec1mf213505@business.example.com, PR?^kN>E)
+                    <a href="https://www.sandbox.paypal.com/myaccount/home" target="_blank">查看 PayPal 帳戶交易明細</a>
                 </div>
                 <hr class="mb-4">
                 <button class="btn btn-danger btn-lg btn-block send-refund-btn" type="button">確定退款</button>
